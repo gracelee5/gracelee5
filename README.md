@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Kyungwon's+Github)](https://git.io/typing-svg)
 </div>
 
-
+<br>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
+<br>
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
