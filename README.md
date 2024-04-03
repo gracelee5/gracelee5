@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient)
 <div align="center" text-align="center>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Kyungwon's+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Lee+Kyungwon)](https://git.io/typing-svg)
 </div>
 
 <br>
