@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving)
 <div align="center" text-align="center>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Lee+Kyungwon)](https://git.io/typing-svg)
@@ -43,7 +43,7 @@
   </a>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&section=footer&text=&fontSize=90)
 
 <!--
 **gracelee5/gracelee5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
